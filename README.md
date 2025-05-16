@@ -42,5 +42,6 @@ This functional measures geometric coherence in turbulent flow and offers a new 
 
 ### Citation
 
-Please cite the paper as:
-
+Please cite the paper as:Nikee Stanley, 
+The Stanley Criterion for Navier–Stokes
+Regularity
