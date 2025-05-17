@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Stanley Criterion for Navier–Stokes Regularity"
+authors:
+  - family-names: Stanley
+    given-names: Nikee
+date-released: 2025-05-16
+version: 1.0
+doi: 10.5281/zenodo.1234567
+license: MIT
+repository-code: https://github.com/STANA2020/StanleyCriterion
+preferred-citation:
+  type: article
+  title: "The Stanley Criterion for Navier–Stokes Regularity"
+  author:
+    - family-names: Stanley
+      given-names: Nikee
+  year: 2025
+  note: "arXiv preprint, to appear"
