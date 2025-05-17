@@ -45,3 +45,21 @@ This functional measures geometric coherence in turbulent flow and offers a new 
 Please cite the paper as:Nikee Stanley, 
 The Stanley Criterion for Navier–Stokes
 Regularity
+
+## Additional Simulations
+
+These new tests further validate the boundedness and integrability of the alignment functional \(\mathcal{A}(t)\):
+
+- **`channel_obstruction_test.py`**  
+  Simulates flow through a turbulent channel with a geometric obstruction.  
+  Output: `channel_obstruction_A_t.npy`, `channel_obstruction_A_t.png`
+
+- **`isotropic_turbulence_test.py`**  
+  Models decaying 3D isotropic turbulence with randomized initial vorticity.  
+  Output: `isotropic_turbulence_A_t.npy`, `isotropic_turbulence_A_t.png`
+
+- **`vortex_collision_test.py`**  
+  Simulates the head-on interaction of two vortex rings.  
+  Output: `vortex_collision_A_t.npy`, `vortex_collision_A_t.png`
+
+Each script can be run independently and will generate `.npy` data and `.png` plots.
